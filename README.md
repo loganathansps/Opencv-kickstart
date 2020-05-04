@@ -1,4 +1,4 @@
-# Opencv - Startup instructions 
+# Opencv - Stetup instructions 
 
 STEP - I - Install anaconda with python 3.4 or later (https://www.anaconda.com/products/individual)
 
